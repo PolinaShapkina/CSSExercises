@@ -1,3 +1,15 @@
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
 .ty {
 	color: rgb(144, 214, 144);
 }
