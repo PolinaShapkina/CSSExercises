@@ -1,0 +1,18 @@
+.eee.zzz.ccc {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+.eee {
+	color: rgb(0, 187, 255);
+}
+.ccc {
+	color: rgb(255, 0, 212);
+}
+.zzz {
+	color: rgb(255, 255, 0);
+}
