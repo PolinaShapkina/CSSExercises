@@ -1,0 +1,43 @@
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+.bbb.zzz {
+    color: rgb(0, 208, 255);
+    font-size: 20px;
+}
+h2.bbb.zzz {
+    color:rgb(210, 30, 168);
+}
+#elem.bbb {
+    color:rgb(57, 78, 16);
+}
+#elem1.bbb.zzz {
+    color:rgb(183, 226, 43);
+}
+h3#elem2.bbb {
+    color:rgb(139, 0, 56);
+}
+h2.xxx {
+    color: rgb(240, 107, 218);
+}
+div .aaa {
+    color: rgb(102, 255, 0);
+}
+.bbb .aaa {
+    color: rgb(13, 0, 255);
+}
+.bbb .aaa.xxx {
+    color: rgb(183, 156, 245);
+}
+.bbb.aaa .xxx {
+    color: rgb(125, 232, 111);
+}
+.bbb .zzz .xxx {
+    color: rgb(70, 88, 125);
+}
