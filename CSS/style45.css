@@ -1,0 +1,30 @@
+g[title]{
+    color: rgb(99, 246, 99);
+}
+p[title]{
+    color: rgb(139, 195, 251);
+}
+p[title = hey]{
+color: rgb(186, 106, 244);
+}
+a[href^="http://"]{
+    color: rgb(238, 119, 182);
+}
+a[href*=".html"] {
+    color:rgb(94, 243, 213);
+}
+p[title~=hi] {
+    color: rgb(161, 242, 79);
+}
+[class|="top-top"]{
+    color: rgb(162, 150, 241);
+}
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
