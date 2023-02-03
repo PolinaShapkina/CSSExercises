@@ -1,0 +1,12 @@
+.elem + li{
+    color: rgb(71, 240, 218);
+}
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
