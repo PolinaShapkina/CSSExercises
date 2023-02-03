@@ -1,0 +1,36 @@
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+a {
+    color: rgb(0, 187, 255);
+}
+a:hover {
+    text-decoration: none;
+}
+
+a.Nyusha {
+    color: rgb(243, 52, 234);
+}
+a:hover.Nyusha {
+    text-decoration: none;
+}
+
+#block a.Pin {
+    color: rgb(77, 67, 108);
+}
+#block a.Pin:hover {
+    text-decoration: none;
+}
+
+.block a.Bi-Bi {
+    color:rgb(188, 220, 46);
+}
+.block a.Bi-Bi:hover {
+    text-decoration: none;
+}
