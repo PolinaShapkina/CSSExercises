@@ -1,0 +1,22 @@
+.parent {
+    display: flex;
+    width: 700px;
+    height: 200px;
+    border: 1px solid rgb(0, 255, 200);
+}
+
+.child {
+	margin: 10px;
+    width: 80px;
+    height: 50px;
+    border: 1px solid rgb(22, 244, 22);
+}
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
