@@ -1,0 +1,26 @@
+.parent1 {
+    padding: 10px 0;
+    border: 1px solid rgb(132, 255, 0);
+    text-align: center;
+}
+
+.parent2 {
+    padding: 10px 0;
+    border: 1px solid rgb(255, 204, 0);
+    text-align: right;
+}
+
+.parent3 {
+    padding: 10px 10px 10px 10px;
+    border: 1px solid rgb(43, 97, 245);
+    text-align: right;
+}
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
