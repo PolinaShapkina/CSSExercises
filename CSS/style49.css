@@ -1,0 +1,17 @@
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+div {
+	border: 1px dashed rgb(4, 255, 42);
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: rgb(0, 204, 255);
+}
