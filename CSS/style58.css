@@ -1,0 +1,16 @@
+body{
+    background-image: url(../images/bg.png);
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-position: top right;
+}
+
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
