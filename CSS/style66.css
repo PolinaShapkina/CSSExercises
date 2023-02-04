@@ -1,0 +1,29 @@
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+.aaa{
+    border: 1px solid pink;
+    text-align: justify;
+    padding: 1px 15px 20px 25px;
+    width: 300px;
+}
+
+.bbb {
+    border: 1px solid blue;
+    text-align: justify;
+    padding: 30px 20px;
+    width: 300px;
+}
+
+.vvv {
+    border: 1px solid cadetblue;
+    text-align: justify;
+    padding: 1px 40px 20px;
+    width: 300px;
+}
