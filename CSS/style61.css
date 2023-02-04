@@ -1,0 +1,35 @@
+.aaa{
+    border: 2px dashed blue;
+    width: 300px;
+}
+.bbb{
+    height: 200px;
+    border: 2px solid orange;
+    margin: 40px;
+    text-align: center;
+}
+
+.vvv{
+    border: 2px dashed blue;
+    width: 300px;
+}
+.ggg{
+    border: 2px dashed green;
+    height: 200px;
+    margin: 20px;
+}
+.zzz{
+    height: 150px;
+    border: 2px solid red;
+    margin: 20px;
+    text-align: center;
+}
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
