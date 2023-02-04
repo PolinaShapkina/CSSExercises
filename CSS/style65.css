@@ -1,0 +1,17 @@
+.aaa{
+    border: 1px solid rgb(35, 193, 3);
+    width: 200px;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
