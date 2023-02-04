@@ -1,0 +1,23 @@
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+#aaa {
+	border-width: 5px;
+	border-style: double;
+	border-color: blue;
+	width: 200px;
+	height: 150px;
+}
+#bbb {
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	width: 200px;
+	height: 150px;
+} 
