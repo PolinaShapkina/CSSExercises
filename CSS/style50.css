@@ -1,0 +1,15 @@
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+li:not(.elem){
+    color: rgb(245, 164, 32);
+}
+.elem:not(:first-child, :last-child){
+    color: rgb(14, 255, 191);
+}
