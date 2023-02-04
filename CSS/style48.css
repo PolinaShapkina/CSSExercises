@@ -1,0 +1,41 @@
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+li:first-child{
+    color: rgb(167, 253, 80);
+}
+li:last-child{
+    color: rgb(245, 131, 131);
+}
+li:nth-child(3){
+    color:rgb(250, 201, 127);
+}
+
+.aaa:nth-child(even){
+    color: rgb(62, 255, 146);
+}
+.aaa:nth-child(odd){
+    color: rgb(73, 160, 236);
+}
+
+.bbb:nth-last-child(2){
+color: rgb(6, 243, 231);
+}
+
+.vvv:only-child{
+    color: rgb(247, 194, 58);
+}
+
+.empty:empty{
+    border: 1px solid rgb(43, 226, 174);
+}
+li.empty{
+    border: 1px solid black;
+    margin: 10px;
+}
