@@ -1,0 +1,52 @@
+.smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+.aaa {
+    width: 200px;
+    border: 1px solid orange;
+}
+.bbb {
+    height: 85px;
+    border: 1px dashed blue;
+    margin: 25px 40px 90px 10px;
+    text-align: center;
+}
+
+.vvv {
+    width: 200px;
+    border: 1px solid orange;
+}
+.ggg {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 30px 50px;
+    text-align: center;
+}
+
+.ddd {
+    width: 200px;
+    border: 1px solid orange;
+}
+.eee {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 100px 40px;
+    text-align: center;
+}
+
+.zzz {
+    width: 200px;
+    border: 1px solid orange;
+}
+.xxx {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 100px 30px 40px;
+    text-align: center;
+}
