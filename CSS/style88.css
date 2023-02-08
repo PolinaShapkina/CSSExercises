@@ -1,0 +1,22 @@
+div {
+	width: 400px;
+	border: 1px solid red;
+	text-align: justify;
+}
+p {
+	margin-left: 30px;
+	border: 1px solid green;
+}
+img{
+	float: left;
+	opacity: 0.5;
+}
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
