@@ -1,0 +1,32 @@
+#elem1, #elem2, #elem3{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    position: relative;
+}
+#elem1 {
+    background-color: #FF8888;
+    top: 70px;
+    left: 50px;
+}
+
+#elem2 {
+    background-color: #7E89EB;
+    top: 30px;
+    left: 90px;
+}
+
+#elem3 {
+    background-color: #4DEE99;
+    top: -10px;
+    left: 130px;
+}
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
