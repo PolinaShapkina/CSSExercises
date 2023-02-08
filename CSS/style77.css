@@ -5,12 +5,6 @@
     height: 200px;
     border: 1px solid red;
 }
-.child {
-    width: 70px;
-    height: 50px;
-    border: 1px solid green;
-}
-
 .parent1 {
     display: flex;
     justify-content: space-between;
@@ -18,23 +12,12 @@
     height: 200px;
     border: 1px solid red;
 }
-.aaa {
-    width: 70px;
-    height: 50px;
-    border: 1px solid green;
-}
-
 .parent2 {
     display: flex;
     justify-content: space-around;
     width: 500px;
     height: 200px;
     border: 1px solid red;
-}
-.bbb {
-    width: 70px;
-    height: 50px;
-    border: 1px solid green;
 }
 
 .parent3 {
@@ -54,3 +37,13 @@
     height: 50px;
     border: 1px solid green;
 } 
+.bbb {
+    width: 70px;
+    height: 50px;
+    border: 1px solid green;
+}
+.aaa {
+    width: 70px;
+    height: 50px;
+    border: 1px solid green;
+}
