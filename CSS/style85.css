@@ -1,0 +1,28 @@
+.bbb{
+    border: 2px solid rgb(201, 218, 11);
+    padding: 20px;
+    margin: 75px auto;
+    width: 700px;
+    text-align: justify;
+    font: 16px Arial;
+}
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
+h1{
+    display: block;
+    background: rgb(201, 218, 11);
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
