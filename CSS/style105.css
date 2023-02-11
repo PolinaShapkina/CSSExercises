@@ -1,0 +1,113 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: flex-end;
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgb(246, 255, 0);
+}
+.child {
+    width: 100px;
+    height: 70px;
+    border: 1px solid rgb(151, 5, 90);
+}
+
+.parent1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgb(255, 0, 119);
+}
+.child1 {
+    width: 100px;
+    height: 70px;
+    border: 1px solid rgb(9, 222, 130);
+}
+
+.parent2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgb(255, 0, 85);
+}
+.child2 {
+    width: 100px;
+    height: 70px;
+    border: 1px solid rgb(222, 16, 241);
+}
+
+.parent3 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-end;
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgb(179, 254, 39);
+}
+.child3 {
+    width: 100px;
+    height: 70px;
+    border: 1px solid rgb(25, 226, 252);
+}
+
+.parent4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgb(255, 200, 0);
+}
+.child4 {
+    width: 100px;
+    height: 70px;
+    border: 1px solid rgb(32, 91, 228);
+}
+
+.parent5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgb(248, 113, 113);
+}
+.child5 {
+    width: 100px;
+    height: 70px;
+    border: 1px solid rgb(48, 230, 48);
+}
+
+.parent6 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 600px;
+    height: 400px;
+    border: 1px solid rgb(255, 208, 0);
+}
+.child6 {
+    width: 100px;
+    height: 70px;
+    border: 1px solid rgb(73, 174, 6);
+}
+.Smeshariki {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(202, 252, 52);
+    color: rgb(74, 11, 249);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+}
